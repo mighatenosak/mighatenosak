@@ -2,8 +2,8 @@
 
 ###  Engineer from Kashmir | AI/ML | Builder of Things I Imagine
 
-I'm **Salman Ali Khan**, an **AI & Machine Learning Engineer** from the beautiful valley of **Kashmir**.  
-I love designing, creating, and building anything I can imagine — from intelligent systems to automation to generative AI tools.
+I'm **Salman Ali Khan**, an **AI & Machine Learning Engineer** and **Odoo Developer** from the beautiful valley of **Kashmir**.
+I specialize in building intelligent systems, automation workflows, and scalable solutions — from Odoo custom modules to advanced AI-driven tools.
 
 ---
 
