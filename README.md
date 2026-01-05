@@ -1,61 +1,56 @@
-#  Hey, I'm **Salman Ali Khan**
+# Hey, I'm **Salman Ali Khan**
 
-###  Engineer from Kashmir | AI/ML | Builder of Things I Imagine
+### Engineer from Kashmir | AI/ML | Builder of Things I Imagine
 
-I'm **Salman Ali Khan**, an **AI & Machine Learning Engineer** and **Odoo Developer** from the beautiful valley of **Kashmir**.
-I specialize in building intelligent systems, automation workflows, and scalable solutions — from Odoo custom modules to advanced AI-driven tools.
-
----
-
-##  What I Do
-
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🐍 Python Development  
-- 🧠 Generative AI  
-- 🛠️ Turning ideas → prototypes → real projects  
+I'm **Salman Ali Khan**, an **AI & Machine Learning Engineer** and **Odoo Developer** from the beautiful valley of **Kashmir**.  
+I specialize in building intelligent systems, automation workflows, and scalable solutions — from **Odoo custom modules** to **advanced AI-driven tools**.
 
 ---
 
-##  Tech Stack
+## What I Do
 
-### **Languages**
-- Python  
-- C  
-- C++  
-- Java Programming
-- Html
-- CSS
-- Java Script
-
-### **Databases**
-- MySQL  
-- MongoDB
-- PostgreSQL 
-
-### **Core Skills**
-- Machine Learning  
-- Deep Learning  
-- Generative AI  
-
-### **Tools**
-- Scikit-Learn, PyTorch/TensorFlow  
-- Jupyter Notebook  
-- FastAPI  
-- Odoo  
-- Git & GitHub  
+-  Artificial Intelligence & Machine Learning  
+-  Python Development  
+-  Generative AI  
+   Turning ideas → prototypes → real projects  
 
 ---
 
-##  What Drives Me
+## Tech Stack
 
-I like solving problems, learning fast, and building cool things that feel impossible until they exist.
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### Core Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### 🛠️ Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,fastapi,odoo,jupyter" />
+</p>
 
 ---
 
-##  Fun Facts About Me
+## What Drives Me
 
--  I play **football**  (and I’m good at it)
--  I have a **cat**  
--  My favorite anime is **Attack on Titan**  
+I like solving problems, learning fast, and building cool things that feel impossible — until they exist.
+
+---
+
+## Fun Facts About Me
+
+-  I play **football** (and I’m good at it)
+-  I have a **cat**
+-  My favorite anime is **Attack on Titan**
+**  
 -  Not a fan of **communism**  
 -  Night-time > daytime for creativity  
