@@ -2,6 +2,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SalmanAliKhan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 ## Engineer from Kashmir | AI/ML | Builder of Things I Imagine
 
 I'm **Salman Ali Khan**, an **AI & Machine Learning Engineer** and **Odoo Developer** from the beautiful valley of **Kashmir**.  
