@@ -1,5 +1,4 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)]
-(http://salman-portfolio-blush.vercel.app/)
+🌐 **Portfolio:** http://salman-portfolio-blush.vercel.app/
 
 # Hey, I'm **Salman Ali Khan**
 <p align="left">
