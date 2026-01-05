@@ -1,3 +1,6 @@
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)]
+(http://salman-portfolio-blush.vercel.app/)
+
 # Hey, I'm **Salman Ali Khan**
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SalmanAliKhan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
