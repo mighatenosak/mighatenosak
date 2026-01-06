@@ -55,7 +55,7 @@ I like solving problems, learning fast, and building cool things that feel impos
 
 -  I play **football** (and I’m good at it)
 -  I have a **cat**
--  My favorite anime is **Attack On Titan**
+-  My favorite anime is *Attack On Titan*
 **  
 -  Not a fan of *communism*  
 -  Night-time > daytime for creativity  
