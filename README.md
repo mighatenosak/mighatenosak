@@ -1,4 +1,4 @@
-🌐 **Portfolio:** http://salman-portfolio-blush.vercel.app/
+🌐 **Portfolio:** https://salmanalikhan-portfolio.vercel.app/
 
 # Hey, I'm **Salman Ali Khan**
 <p align="left">
